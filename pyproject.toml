@@ -1,0 +1,14 @@
+[project]
+name = "s4tool-image-overlay"
+description = "Quickly set up image overlay effects"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/S4MUEL-404/ComfyUI-S4Tool-Image-Overlay"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-S4Tool-Image-Overlay"
+Icon = ""
